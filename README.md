@@ -54,3 +54,9 @@ volumes:
   ```
   sysctl -w vm.max_map_count=262144
   ```
+## Finally run 
+```
+docker-compose up -d
+```
+## sonarqube is accessible on port 9000
+### http://ipaddress:9000
