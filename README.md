@@ -60,3 +60,5 @@ docker-compose up -d
 ```
 ## sonarqube is accessible on port 9000
 ### http://ipaddress:9000
+### username: admin
+### password: admin
